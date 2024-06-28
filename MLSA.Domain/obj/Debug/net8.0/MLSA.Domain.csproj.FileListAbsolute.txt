@@ -1,0 +1,12 @@
+D:\MLSA\MLSA.Domain\bin\Debug\net8.0\MLSA.Domain.deps.json
+D:\MLSA\MLSA.Domain\bin\Debug\net8.0\MLSA.Domain.dll
+D:\MLSA\MLSA.Domain\bin\Debug\net8.0\MLSA.Domain.pdb
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\MLSA.Domain.csproj.AssemblyReference.cache
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\MLSA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\MLSA.Domain.AssemblyInfoInputs.cache
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\MLSA.Domain.AssemblyInfo.cs
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\MLSA.Domain.csproj.CoreCompileInputs.cache
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\MLSA.Domain.dll
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\refint\MLSA.Domain.dll
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\MLSA.Domain.pdb
+D:\MLSA\MLSA.Domain\obj\Debug\net8.0\ref\MLSA.Domain.dll
